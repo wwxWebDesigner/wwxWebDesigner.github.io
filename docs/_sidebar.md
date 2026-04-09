@@ -1,9 +1,8 @@
-* 生活常识
-  * [饮食健康](diet/healthy_eating.md)
-  * [日常急救](emergency/first_aid.md)
-* 居家技巧
-  * [清洁收纳](home/cleaning.md)
-  * [家电使用](home/appliance.md)
-* 旅行攻略
-  * [出行准备](travel/preparation.md)
-  * [安全须知](travel/safety.md)
+* AI
+  * [基础](ai/base.md)
+* 前端开发
+  * [vue2](vue/vue2.md)
+  * [vue3](vue/vue3.md)
+  * [react](react/react.md)
+* 面试
+  * [高频考点](faceTest/high.md)
