@@ -1,0 +1,9 @@
+* 生活常识
+  * [饮食健康](diet/healthy_eating.md)
+  * [日常急救](emergency/first_aid.md)
+* 居家技巧
+  * [清洁收纳](home/cleaning.md)
+  * [家电使用](home/appliance.md)
+* 旅行攻略
+  * [出行准备](travel/preparation.md)
+  * [安全须知](travel/safety.md)
