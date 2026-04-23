@@ -8,4 +8,5 @@
   * [vue3](vue/vue3.md)
   * [react](react/base.md)
 * 面试
-  * [高频考点](faceTest/high.md)
+  * [前端高频考点](faceTest/high.md)
+  * [AI高频考点](faceTest/ai.md)
