@@ -10,3 +10,7 @@
 * 面试
   * [前端高频考点](faceTest/high.md)
   * [AI高频考点](faceTest/ai.md)
+* 大物
+  * [力学](daWu/force.md)
+* 高数
+  * [极限]（daShu/first.md）
