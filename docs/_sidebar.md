@@ -13,4 +13,6 @@
 * 大物
   * [力学](daWu/force.md)
 * 高数
-  * [极限]（daShu/first.md）
+  * [极限](daShu/first.md)
+  * [求导](daShu/second.md)
+  * [积分](daShu/third.md)
